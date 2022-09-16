@@ -1,8 +1,12 @@
 .info {
-    margin-top: 200px;
-    font-size: 100px;
+    padding: 50px;
+    font-size: 5em;
     font-weight: 900;
     width: 50%;
+}
+
+.info-container{
+    max-width: 500px;
 }
 
 .img{
