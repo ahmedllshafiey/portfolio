@@ -4,15 +4,14 @@ import photo from '../../assets/Me At The Pool.jpg'
 
 function Header(){
     return( 
-        <div className="container">
-                <div className="row">
-                <div className="col-md-6 col-sm-12 text-center">
-                    <div className="info text-center">
-                        Hi,I'm<br/>Ahmed<br/>Sayed
-                    </div>
+        <div className="container mt-5">
+            <div className="row card1">
+                <div className="col-md-5 col-sm-12">
+                    <img className="mypic" src={photo}></img>
                 </div>
-                <div className="col-md-6 col-sm-12 text-center">
-                    <img className="img text-center" src={photo}></img>
+                <div className="col-md-6 col-sm-12">
+                    <span className="myname display-1">I'm Ahmed Sayed</span>
+                    <span className="about"><br/>I like ART of Programming/Medicine Making/Portrait</span>
                 </div>
             </div>
         </div>

@@ -1,19 +1,23 @@
-.info {
-    padding: 50px;
-    font-size: 5em;
-    font-weight: 900;
-    width: 50%;
-}
-
-.info-container{
-    max-width: 500px;
-}
-
-.img{
+.mypic{
     width: 100%;
-    max-width: 500px;
-    margin-right: 50px;
-    margin-top: 50px;
-    border: solid 20px white;
-    box-shadow:  0 0 15px rgb(226, 147, 78);
+    border: solid 2px rgb(226, 147, 78);
+}
+
+.myname{
+    text-transform: uppercase;
+    font-size: 5vw;
+}
+
+.about{
+    font-size: 30px;
+    font-size: 3vw;
+    font-size: 2vmax
+}
+
+.card1{
+    padding: 16px;
+    margin: 16px;
+    border: none;
+    background-color: bisque;
+    border-radius: 16px;
 }

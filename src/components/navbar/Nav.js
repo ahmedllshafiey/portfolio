@@ -5,11 +5,8 @@ import './nav.css'
 function Nav(){
     return(
         <div>
-            <ul className='list'>
+            <ul className='list text-center'>
                 <span className='logo'>Ahmed's</span>
-                <li className='nav-li'><a href='#'>Contact</a></li>
-                <li className='nav-li'><a href='#'>About Me</a></li>
-                <li className='nav-li'><a href='#'>Home Page</a></li>
             </ul>             
         </div>
     )
