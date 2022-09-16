@@ -1,0 +1,15 @@
+.info {
+    margin-top: 200px;
+    font-size: 100px;
+    font-weight: 900;
+    width: 50%;
+}
+
+.img{
+    width: 100%;
+    max-width: 500px;
+    margin-right: 50px;
+    margin-top: 50px;
+    border: solid 20px white;
+    box-shadow:  0 0 15px rgb(226, 147, 78);
+}

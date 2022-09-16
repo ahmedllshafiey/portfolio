@@ -1,0 +1,33 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+
+
+/* Styles */
+.logo{
+    font-family: 'Nabla', cursive;
+    font-size: 60px;
+    margin-left: 16px;
+}
+
+.nav-li{
+    margin-right: 50px;
+}
+
+a{
+    color:rgb(226, 147, 78)!important;
+}
+
+ul{
+    border: none;
+    box-shadow: 0 0 30px rgb(226, 147, 78);
+}
+
+.nav-li{
+    list-style: none;
+    font-family: 'Teko', sans-serif;
+    margin-left: 56px;
+    margin-top: 32px;
+    font-size: 30px;
+    float: right;
+}
