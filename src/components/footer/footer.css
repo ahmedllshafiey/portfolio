@@ -4,18 +4,23 @@
 
 
 /* Styles */
-.logo{
+.foot{
     font-family: 'Nabla', cursive;
-    font-size: 60px;
+    font-size: 20px;
     margin-left: 16px;
 }
 
-.nav-li{
-    margin-right: 50px;
-}
 
 ul{
     border: none;
     box-shadow: 0 0 30px rgb(226, 147, 78);
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    left:0;
+    width:100%;
     background-color: #0C64B3;
+    margin: 0;
 }
