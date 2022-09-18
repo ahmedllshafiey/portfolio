@@ -17,6 +17,9 @@ function App() {
       <h2 className='display-3 mx-5'>Skills</h2>
       <hr />
       <Skills />
+      <br />
+      <br />
+      <br />
       <Footer />
     </div>    
   );
