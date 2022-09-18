@@ -43,6 +43,13 @@ function Prog(){
                     </svg>
                     <span class="progressbar__text shadow-ts">React.js</span>
                 </div>
+
+                <div class="progressbar">
+                    <svg class="progressbar__svg">
+                    <circle cx="80" cy="80" r="70" class="progressbar__svg-circle circle-ts shadow-ts"> </circle>
+                    </svg>
+                    <span class="progressbar__text shadow-ts">SQL</span>
+                </div>
                 </div>
 
             </div>
