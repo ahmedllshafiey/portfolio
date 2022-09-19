@@ -5,7 +5,7 @@ import Prog from "../progress/Progress";
 function Skills(){
     return( 
         <div className="container mt-5">
-            <div className="row card1">
+            <div className="card1">
                 <Prog />
             </div>
         </div>
