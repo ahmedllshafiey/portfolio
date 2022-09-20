@@ -1,6 +1,5 @@
 import React from "react";
 import './about.css'
-import photo from '../../assets/Me At The Pool.jpg'
 
 function about(){
     return( 
